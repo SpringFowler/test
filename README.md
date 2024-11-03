@@ -14,6 +14,6 @@
   <!-- Use latest versionless copy of current release -->
   <script src="../dist/modules.js"></script>
   <script src="tests.js"></script>
-  eEEDvTvjnSWEGZTrAfwmdLi5yQEoq3q0bPh2CQ==
 </body>
 </html>
+FbwciO0IaN9552sU-gNZS6c2jqJ5A67eWWI7rw==
